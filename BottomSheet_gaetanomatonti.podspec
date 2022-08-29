@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-    s.name = 'BottomSheet'
+    s.name = 'BottomSheet_gaetanomatonti'
     s.version = '0.4.0'
     s.summary = 'A Bottom Sheet component made in UIKit.'
     s.homepage = 'https://github.com/lbrsilva-ouze/BottomSheet'
